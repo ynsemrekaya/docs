@@ -9,6 +9,7 @@
   },
   "favicon": "/japixel-logo.png",
   "navigation": {
+  "language": "tr",
     "tabs": [
       {
         "tab": "Rehberler",
