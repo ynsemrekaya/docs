@@ -88,7 +88,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Ana sayfa",
       "href": "https://dashboard.mintlify.com"
     }
   },
