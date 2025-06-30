@@ -37,7 +37,7 @@
       "anchors": [
         {
           "anchor": "Discord",
-          "href": "https://discord.gg/örneklik", 
+          "href": "https://discord.gg/4rBn6TgUAc", 
           "icon": "discord"
         }
       ]
@@ -63,7 +63,8 @@
   "footer": {
     "socials": {
       "instagram": "https://www.instagram.com/japixelnet",
-      "youtube": "https://www.youtube.com/@japixelnet"
+      "youtube": "https://www.youtube.com/@japixelnet",
+      "discord": "https://discord.gg/4rBn6TgUAc"
     }
   }
 }
