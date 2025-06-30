@@ -23,12 +23,11 @@
           {
             "group": "Essentials",
             "pages": [
-              "turffactions/markdown",
-              "turffactions/code",
-              "turffactions/images",
-              "turffactions/settings",
-              "turffactions/navigation",
-              "turffactions/reusable-snippets"
+              "turffactions/turffactions",
+              "turffactions/harita",
+              "turffactions/madenler",
+              "turffactions/demirci",
+              "turffactions/kurallar"
             ]
           }
         ]
