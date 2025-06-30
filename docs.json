@@ -11,25 +11,23 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Rehberler",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Sunucu HK.",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
             "group": "Essentials",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "turffactions/markdown",
+              "turffactions/code",
+              "turffactions/images",
+              "turffactions/settings",
+              "turffactions/navigation",
+              "turffactions/reusable-snippets"
             ]
           }
         ]
