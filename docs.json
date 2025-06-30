@@ -82,21 +82,20 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Destek Al",
+        "href": "https://japixel.net/destek"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Ana sayfa",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://japixel.net"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "instagram": "https://www.instagram.com/japixelnet",
+      "youtube": "https://www.youtube.com/@japixelnet"
     }
   }
 }
