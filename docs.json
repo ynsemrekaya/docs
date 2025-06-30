@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "language": "tr",
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
@@ -9,7 +10,6 @@
   },
   "favicon": "/japixel-logo.png",
   "navigation": {
-  "language": "tr",
     "tabs": [
       {
         "tab": "Rehberler",
